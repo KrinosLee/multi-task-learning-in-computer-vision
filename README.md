@@ -1,4 +1,4 @@
-# multi-task-learning-in-computer-vision
+# Multi-task-learning-in-computer-vision
 
 A hard-structure visual multi-task learning system able for object recognition, segmentation and classification.
 
