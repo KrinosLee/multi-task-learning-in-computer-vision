@@ -1,6 +1,6 @@
 # Multi-task-learning-in-computer-vision
 
-A hard-structure visual multi-task learning system able for object recognition, segmentation and classification.
+A visual multi-task learning system able for object recognition, segmentation and classification.
 
 This repo contains 8 .py files:
 
